@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kiblat</string>
+    <string name="quote">Your Path of Faith</string>
+    <string name="app_name2">KiblatApp</string>
+    <string name="salam">Assalamualaikum</string>
+    <string name="greeting">Selamat Datang</string>
+    <string name="back">Kembali</string>
+    <string name="kiblat_activity">Arah Kiblat</string>
+    <string name="catatan_kiblat">Hanya berlaku di Indonesia</string>
+    <string name="masjid_activity">Masjid Terdekat</string>
+    <string name="adzan_activity">Jadwal Sholat</string>
+    <string name="waktuTanggal">Waktu dan Tanggal</string>
+    <string name="waktuSekarang">12.00</string>
+    <string name="tanggalSekarang">01 Januari 2023</string>
+    <string name="subuh">Subuh</string>
+    <string name="waktuSubuh">05:00</string>
+    <string name="dzuhur">Dzuhur</string>
+    <string name="waktDzuhur">12:00</string>
+    <string name="ashar">Ashar</string>
+    <string name="waktuAshar">15:00</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="waktuMaghrib">18:00</string>
+    <string name="isya">Isya</string>
+    <string name="waktuIsya">20:00</string>
+</resources>
