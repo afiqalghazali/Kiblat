@@ -1,7 +1,7 @@
 
-# KiblatApp
+# Kiblat
 
-KiblatApp is a user-friendly mobile app for Muslims. It provides prayer schedules, Qibla direction, and nearby mosque locator. KiblatApp blends technology with Islamic tradition to help you stay connected with your faith, whether at home or traveling.
+Kiblat is a user-friendly mobile app for Muslims. It provides prayer schedules, Qibla direction, and nearby mosque locator. KiblatApp blends technology with Islamic tradition to help you stay connected with your faith, whether at home or traveling.
 
 
 ## 🚀 Features
